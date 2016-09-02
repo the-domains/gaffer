@@ -1,35 +1,27 @@
-favicon: null
-name: Gaffer
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.6290051
+  saturation: 0.6684588
   brandStrength: 1
-  lightness: 0.455312
+  lightness: 0.5035842
   brandColors:
-    - '#160E0D'
-    - '#CE1F65'
-    - '#F3D554'
-    - '#E1D1BD'
-    - '#42925C'
-  rhythmicContrast: 0.4983137
-typography_spectrum: 0.658516
-layout_spectrum: 0.1821248
+    - '#FFFFFF'
+    - '#FC016A'
+    - '#D3CFC6'
+    - '#EC2D72'
+    - '#CB5386'
+  rhythmicContrast: 0.4157706
 cta:
   bucket: null
   version: null
@@ -38,3 +30,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
+name: Gaffer
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.658516
+layout_spectrum: 0
